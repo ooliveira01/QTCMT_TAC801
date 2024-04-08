@@ -106,6 +106,10 @@
   }, {
     "id" : "org.talend.lite.tdm.core.feature.feature.group"
   }, {
+    "id" : "org.talend.studio.components.bd.bigtable.feature.feature.group"
+  }, {
+    "id" : "org.talend.studio.components.bd.documentDB.feature.feature.group"
+  }, {
     "id" : "org.talend.studio.components.di.cyberark.feature.feature.group"
   }, {
     "id" : "org.talend.studio.components.tck.google.analytics.feature.feature.group"
