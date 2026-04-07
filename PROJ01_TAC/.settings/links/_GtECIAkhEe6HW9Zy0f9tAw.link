@@ -1,0 +1,26 @@
+{
+  "itemId" : "_GtECIAkhEe6HW9Zy0f9tAw",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_o4QgIAkhEe6HW9Zy0f9tAw",
+    "parameterList" : [ {
+      "id" : "_PKUikQrzEe6bLaNP9mUw1A",
+      "name" : "MySQL_ELT_Login"
+    }, {
+      "id" : "_PKUikgrzEe6bLaNP9mUw1A",
+      "name" : "MySQL_ELT_AdditionalParams"
+    }, {
+      "id" : "_PKUikwrzEe6bLaNP9mUw1A",
+      "name" : "MySQL_ELT_Database"
+    }, {
+      "id" : "_PKUilArzEe6bLaNP9mUw1A",
+      "name" : "MySQL_ELT_Password"
+    }, {
+      "id" : "_PKUilQrzEe6bLaNP9mUw1A",
+      "name" : "MySQL_ELT_Server"
+    }, {
+      "id" : "_PKUilgrzEe6bLaNP9mUw1A",
+      "name" : "MySQL_ELT_Port"
+    } ]
+  } ]
+}
