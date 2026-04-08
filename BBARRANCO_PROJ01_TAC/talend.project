@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_hQr5UfXHEe6zhb_XPDPfAw" label="proj01_TAC" description="" language="java" technicalLabel="PROJ01_TAC" author="_hQr5UvXHEe6zhb_XPDPfAw" productVersion="Talend Real-time Big Data Platform-8.0.1.20230913_0925-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/ooliveira01/QTCMT_TAC801.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" itemsRelationVersion="1.3">
+  <TalendProperties:Project xmi:id="_hQr5UfXHEe6zhb_XPDPfAw" label="BBARRANCO_PROJ01_TAC" description="" language="java" technicalLabel="BBARRANCO_PROJ01_TAC" author="_hQr5UvXHEe6zhb_XPDPfAw" productVersion="Talend Real-time Big Data Platform-8.0.1.20230913_0925-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/ooliveira01/QTCMT_TAC801.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" itemsRelationVersion="1.3">
     <migrationTask xmi:id="_hSnL8PXHEe6zhb_XPDPfAw" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_hQr5UvXHEe6zhb_XPDPfAw" login="ooliveira@talend.com" firstName="Octavio" lastName="Oliveira" type="DI" additionnalData="{}"/>
